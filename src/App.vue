@@ -178,7 +178,7 @@
       </div>
       <div class="order-1 md:order-2 md:w-1/2 md:flex md:justify-end">
         <div>
-          <div class=" px-10 py-16 rounded-lg md:shadow-custom">
+          <div class=" md:px-10 md:py-16 rounded-lg md:shadow-custom">
             <div class="mb-5 md:mb-8 mont ">
               <div class="flex items-center">
                 <div>
