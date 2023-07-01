@@ -17,7 +17,7 @@
     </p>
   </div>
   <div>
-    <img src="photo1.png" alt="" class="my-10 ">
+    <img :src="'photo1.png'" alt="" class="my-10 ">
 
     <div class="flex flex-col md:flex-row ">
       <div class="order-2 md:order-1 md:w-11/12 pr-10 mont">
